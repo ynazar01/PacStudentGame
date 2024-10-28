@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VulnerableGhost_Pink_1_0: 8445915191287380571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
